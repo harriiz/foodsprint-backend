@@ -1,0 +1,31 @@
+Date : 2023-01-27 01:28:04
+Directory : d:\maturski\foodsprint_backend\routes
+Total : 7 files,  98 codes, 6 comments, 37 blanks, all 141 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |          7 |         98 |          6 |         37 |        141 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                    | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                       |          7 |         98 |          6 |         37 |        141 |
++---------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\maturski\foodsprint_backend\routes\authRoutes.js     | JavaScript |          8 |          0 |          5 |         13 |
+| d:\maturski\foodsprint_backend\routes\menuRoutes.js     | JavaScript |         12 |          0 |          4 |         16 |
+| d:\maturski\foodsprint_backend\routes\orderRoutes.js    | JavaScript |         23 |          1 |          7 |         31 |
+| d:\maturski\foodsprint_backend\routes\register.js       | JavaScript |         23 |          5 |         10 |         38 |
+| d:\maturski\foodsprint_backend\routes\restoranRoutes.js | JavaScript |         13 |          0 |          4 |         17 |
+| d:\maturski\foodsprint_backend\routes\root.js           | JavaScript |          7 |          0 |          3 |         10 |
+| d:\maturski\foodsprint_backend\routes\userRoutes.js     | JavaScript |         12 |          0 |          4 |         16 |
+| Total                                                   |            |         98 |          6 |         37 |        141 |
++---------------------------------------------------------+------------+------------+------------+------------+------------+

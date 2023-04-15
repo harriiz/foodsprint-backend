@@ -1,0 +1,36 @@
+Date : 2023-01-27 01:27:43
+Directory : d:\maturski\foodsprint_backend\controllers
+Total : 9 files,  317 codes, 97 comments, 110 blanks, all 524 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |          9 |        317 |         97 |        110 |        524 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                 |          9 |        317 |         97 |        110 |        524 |
+| . (Files)                                                         |          5 |        388 |         97 |        129 |        614 |
+| ..                                                                |          4 |        -71 |          0 |        -19 |        -90 |
+| ..\middleware                                                     |          4 |        -71 |          0 |        -19 |        -90 |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                          | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\maturski\foodsprint_backend\controllers\authController.js      | JavaScript |         78 |         11 |         21 |        110 |
+| d:\maturski\foodsprint_backend\controllers\menuController.js      | JavaScript |         47 |          0 |         14 |         61 |
+| d:\maturski\foodsprint_backend\controllers\ordersController.js    | JavaScript |         74 |         24 |         25 |        123 |
+| d:\maturski\foodsprint_backend\controllers\restoraniController.js | JavaScript |         89 |         27 |         29 |        145 |
+| d:\maturski\foodsprint_backend\controllers\usersController.js     | JavaScript |        100 |         35 |         40 |        175 |
+| d:\maturski\foodsprint_backend\middleware\errorHandler.js         | JavaScript |         -9 |          0 |         -5 |        -14 |
+| d:\maturski\foodsprint_backend\middleware\logger.js               | JavaScript |        -26 |          0 |         -5 |        -31 |
+| d:\maturski\foodsprint_backend\middleware\loginLimiter.js         | JavaScript |        -20 |          0 |         -3 |        -23 |
+| d:\maturski\foodsprint_backend\middleware\verifyJWT.js            | JavaScript |        -16 |          0 |         -6 |        -22 |
+| Total                                                             |            |        317 |         97 |        110 |        524 |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+

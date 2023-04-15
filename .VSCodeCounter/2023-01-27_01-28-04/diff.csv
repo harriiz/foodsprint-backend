@@ -1,0 +1,13 @@
+"filename", "language", "JavaScript", "comment", "blank", "total"
+"d:\maturski\foodsprint_backend\models\Menu.js", "JavaScript", -18, 0, -4, -22
+"d:\maturski\foodsprint_backend\models\Order.js", "JavaScript", -17, 0, -3, -20
+"d:\maturski\foodsprint_backend\models\Restoran.js", "JavaScript", -36, 0, -5, -41
+"d:\maturski\foodsprint_backend\models\User.js", "JavaScript", -22, 0, -3, -25
+"d:\maturski\foodsprint_backend\routes\authRoutes.js", "JavaScript", 8, 0, 5, 13
+"d:\maturski\foodsprint_backend\routes\menuRoutes.js", "JavaScript", 12, 0, 4, 16
+"d:\maturski\foodsprint_backend\routes\orderRoutes.js", "JavaScript", 23, 1, 7, 31
+"d:\maturski\foodsprint_backend\routes\register.js", "JavaScript", 23, 5, 10, 38
+"d:\maturski\foodsprint_backend\routes\restoranRoutes.js", "JavaScript", 13, 0, 4, 17
+"d:\maturski\foodsprint_backend\routes\root.js", "JavaScript", 7, 0, 3, 10
+"d:\maturski\foodsprint_backend\routes\userRoutes.js", "JavaScript", 12, 0, 4, 16
+"Total", "-", 5, 6, 22, 33
