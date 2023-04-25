@@ -77,7 +77,12 @@ const refresh = (req, res) => {
         username: decoded.username,
       }).exec();
 
-      if (!foundUser) return res.status(401).json({ message: "Unauthorized" });
+      if (!foundUser)
+        return res
+          .status(401)
+          .json({
+            message: "Korisnik s tim korisničim imenom i šifrom ne postoji!",
+          });
 
       const accessToken = jwt.sign(
         {
