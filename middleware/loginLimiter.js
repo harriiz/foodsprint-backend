@@ -5,7 +5,7 @@ const loginLimiter = rateLimit({
   windowMs: 60 * 1000, // 1 minute
   max: 5, // Limit each IP to 5 login requests per `window` per minute
   message: {
-    message: "Previše pokušaja prijave odjednom, molimo pokušajte kasni",
+    message: "Previše pokušaja prijave odjednom, molimo pokušajte kasnije",
   },
   handler: (req, res, next, options) => {
     logEvents(

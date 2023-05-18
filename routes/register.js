@@ -51,9 +51,9 @@ router.post("/register", async (req, res) => {
   });
 
   if (user) {
-    res.status(201).json({ message: `New user ${username} created` });
+    res.status(201).json({ message: `Novi korisnik ${username} napravljen` });
   } else {
-    res.status(400).json({ message: "Invalid user data received" });
+    res.status(400).json({ message: "Registracija neuspješna" });
   }
 });
 

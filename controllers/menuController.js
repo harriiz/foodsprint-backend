@@ -75,6 +75,10 @@ const updateMenu = asyncHandler(async (req, res) => {
 const deleteMenu = asyncHandler(async (req, res) => {
   const { id } = req.body;
 
+  if (!id) {
+    return res.status(400).json({ message: "Menu ID potreban" });
+  }
+
   const menu = await Menu.findById(id).exec();
 
   const result = await menu.deleteOne();
